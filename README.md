@@ -1,4 +1,3 @@
-Readme file to be updated
 
 # Este es un encabezado grande 
 ## Encabezado menos grande
@@ -11,3 +10,13 @@ Para establecer listas
     - Item 3.1 
 
 Git is a tool
+
+# Use Case
+- Item 1
+- Item 2
+  - Item 2.1
+ 
+## Tools
+* Tool 1
+* Tool 2
+
